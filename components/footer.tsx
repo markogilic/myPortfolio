@@ -7,7 +7,7 @@ const Footer = () => {
         &copy; 2023 Marko Gilic. All rights reserved.
       </small>
       <p className="text-l">
-        <span className="font-semibold">About this website:</span> buot in
+        <span className="font-semibold">About this website:</span> built in
         Next.js, Tailwind CSS, and TypeScript,Framer Motion, React Email.
       </p>
     </footer>
